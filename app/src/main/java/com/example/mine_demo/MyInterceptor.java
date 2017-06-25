@@ -71,7 +71,6 @@ public class MyInterceptor<T> implements Interceptor {
 
 
 
-
         //坑三
         try {
             JSONObject jsonObject = new JSONObject(string);
