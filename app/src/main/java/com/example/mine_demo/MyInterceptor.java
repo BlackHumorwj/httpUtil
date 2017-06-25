@@ -67,6 +67,9 @@ public class MyInterceptor<T> implements Interceptor {
 
         Log.e("dddd",string);
 
+
+
+
         //坑三
         try {
             JSONObject jsonObject = new JSONObject(string);
